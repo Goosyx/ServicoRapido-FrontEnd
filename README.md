@@ -1,8 +1,8 @@
-# Projeto Integrador - Nuance Store - Frontend
+# Projeto Integrador - Serviço Rápido - Frontend
 
 <img src="https://img.shields.io/npm/l/react">
 
-Por [Ruan Azevedo](https://www.linkedin.com/in/ruan-azevedo-904203151), Pedro Luiz Ellero, Hugo Okumura e Marcos Paulo Oliveira.
+Por Alex Magalhães da Silva Junior, Sergio Murilo Cardoso Valentini e Marcos Paulo Oliveira.
 
 ## Sobre o projeto
 
