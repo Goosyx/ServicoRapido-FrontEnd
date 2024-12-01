@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/npm/l/react">
 
-Por [Alex Magalhães da Silva Junior](https://www.github.com/MagalhaesExe), [Sergio Murilo Cardoso Valentini](https://www.github.com/Goosyx), e [Marcos Paulo Oliveira](https://github.com/Marcos953).
+Por [Alex Magalhães da Silva Junior](https://www.github.com/MagalhaesExe), [Sergio Murilo Cardoso Valentini](https://www.github.com/Goosyx) e [Marcos Paulo Oliveira](https://github.com/Marcos953).
 
 ## Sobre o projeto
 
