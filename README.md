@@ -10,6 +10,11 @@ Este é um projeto para a disciplina de **Projeto Integrador** da UTFPR de Campo
 
 Nosso projeto específico é um Marketplace de Lojas de Roupas.
 
+## Comando para rodar o front-end
+```
+npm run dev
+```
+
 ## Tecnologias utilizadas
 
 - TypeScript
